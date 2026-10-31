@@ -1,4 +1,4 @@
-# Sistema de Gestión de Solicitudes Académicas
+# Sistema de Gestión de solicitudes académicas
 
 Proyecto realizado para el Trabajo Práctico Integrador de Metodología de Sistemas II.
 
@@ -7,7 +7,7 @@ El sistema permite registrar solicitudes académicas, cambiar su estado, asignar
 ## Estructura
 
 - `INICIAL`: versión base con problemas de diseño identificables.
-- `REFACTORIZADO`: versión mejorada aplicando SOLID, Clean Code y refactoring.
+- `REFACTORIZADO`: versión mejorada aplicando SOLID, clean code y refactoring.
 - `docs`: diagnóstico, pruebas y checklist de code review.
 
 ## Ejecución
@@ -32,4 +32,3 @@ java PruebaSistemaRefactorizado
 
 - Java
 - Git
-- GitHub
